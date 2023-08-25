@@ -1,0 +1,14 @@
+@media screen and (max-width: 610px) {
+  .nav {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 25px;
+    display: block;
+    /* transition: 0.3s; */
+  }
+
+  .nav:hover,
+  .nav:focus {
+    color: #f1f1f1;
+  }
+}
